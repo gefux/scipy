@@ -57,7 +57,7 @@ MAJOR = 1
 MINOR = 4
 MICRO = 1
 ISRELEASED = True
-VERSION = '%d.%d.%d' % (MAJOR, MINOR, MICRO)
+VERSION = '%d.%d.%d.gefux' % (MAJOR, MINOR, MICRO)
 
 
 # Return the git revision as a string
