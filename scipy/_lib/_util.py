@@ -6,7 +6,7 @@ import sys
 import warnings
 import numbers
 from collections import namedtuple
-from multiprocessing import Pool
+from multiprocessing_on_dill import Pool
 import inspect
 
 import numpy as np
